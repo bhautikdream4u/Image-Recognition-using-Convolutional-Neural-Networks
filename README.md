@@ -15,8 +15,12 @@ Evaluation
 Usage
 Results
 References
-Introduction
+
+**Introduction**
 This project aims to recognize various agricultural crops from an image provided via a URL. Using deep learning techniques like Convolutional Neural Networks (CNN), the model is trained on a dataset of crop images. It can classify images into predefined crop categories with a high degree of accuracy.
+
+**Agriculture Crops Datasets**
+https://www.kaggle.com/datasets/mdwaquarazam/agricultural-crops-image-classification/data
 
 **Features**
 Classifies crops based on input image URLs.
@@ -51,3 +55,7 @@ To predict a crop from an image URL, you can:
 Download the image from the provided URL.
 Preprocess the image (resize, normalize, etc.).
 Pass the preprocessed image to the model for prediction.
+
+
+**Help**
+Contact us from bhautikradiya.com
