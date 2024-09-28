@@ -58,4 +58,4 @@ Pass the preprocessed image to the model for prediction.
 
 
 **Help**
-Contact us from bhautikradiya.com
+Contact us from https://bhautikradiya.com
